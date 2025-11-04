@@ -35,8 +35,9 @@ Entre los sistemas implementados se destacan:
 - 🎬 **Secuencia cinemática inicial**, programada mediante eventos personalizados.  
 - 🧩 **Scripts de control e interacción básica.**  
 - 🎯 **Sistema de Inverse Kinematics (IK)** aplicado al arma para una sujeción natural.  
+- 🔭 **Ajuste de variables de cámara y FOV** para simular una **mira telescópica dinámica**, además de coordinar su transición con la **cinemática y el control del jugador**.  
 - 💥 **Activación de partículas y efectos visuales** durante el disparo.  
-- 📷 **Cinemática de cámara y composición de entorno** para presentación de la escena.
+- 📷 **Cinemática de cámara y composición de entorno**, ajustada por código para garantizar **transiciones fluidas y precisas** entre planos.
 
 > 🔸 Este prototipo no incluye IA ni audio, ya que el objetivo fue demostrar la **integración técnica y el flujo de cámara** en un entorno interactivo.
 
@@ -47,9 +48,9 @@ Entre los sistemas implementados se destacan:
 El desarrollo priorizó un **enfoque cinematográfico**, trabajando sobre:
 - La **puesta en escena** del entorno.  
 - La **iluminación y dirección de cámara**.  
-- El uso de **IK y partículas** como elementos expresivos.  
+- El **uso de IK, FOV y efectos visuales** como recursos expresivos.  
 
-El resultado es un **prototipo funcional y visualmente presentable**, centrado en la **base técnica del gameplay**.
+El resultado es un **prototipo funcional y visualmente presentable**, centrado en la **base técnica del gameplay** y la **integración de cámara en tiempo real**.
 
 ---
 
@@ -84,5 +85,3 @@ El resultado es un **prototipo funcional y visualmente presentable**, centrado e
 ---
 
 > 💬 *“Freelance-2021-CODE-AA” representa una experiencia de integración técnica y presentación visual, enfocada en scripting, animación IK y estructura base de un shooter táctico dentro de Unity.*
-
----
