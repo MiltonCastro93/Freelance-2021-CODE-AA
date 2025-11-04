@@ -1,83 +1,88 @@
-# 🎯 Freelance 2021 CODE:AA
+# 🎯 Freelance 2021 — CODE: AA
 
-**Freelance 2021 CODE:AA** es un **prototipo de videojuego** desarrollado como **trabajo freelance** durante **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
-El proyecto consistía en crear una **base jugable** para un futuro título de francotiradores, enfocándose en la **puesta en escena, control del arma y efectos visuales**.
+**Freelance 2021 — CODE: AA** es un **prototipo de videojuego técnico** desarrollado como **trabajo freelance** durante **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
+El objetivo fue crear una **base jugable** para un futuro título de francotiradores, con foco en la **puesta en escena, control del arma e implementación técnica**.
 
 ---
 
 ## 💼 Contexto del Proyecto
 
-El objetivo era construir un **prototipo técnico** que demostrara las bases de gameplay y presentación.  
-El contrato no fue completado en su totalidad, pero el cliente **autorizó la publicación del prototipo** en mi portfolio personal.  
+El encargo consistió en construir un **prototipo funcional** que demostrara las bases de gameplay, ambientación y presentación.  
+Aunque el contrato no fue completado en su totalidad, el cliente **autorizó su publicación** como parte de mi portfolio personal.
 
-El proyecto fue diseñado para tener varios niveles, pero esta versión contiene **un único nivel de prueba**, centrado en la **cinemática, el control del personaje y la integración de animaciones e IK**.
+El prototipo incluye **un único nivel demostrativo**, diseñado para probar **cinemáticas, control de personaje y animaciones con IK**, sirviendo como **punto de partida** para una producción de mayor escala.
 
 ---
 
 ## ⚙️ Detalles Técnicos
 
-| Característica | Descripción |
-|----------------|-------------|
+| Aspecto | Descripción |
+|----------|-------------|
 | 🧩 **Motor** | Unity 2021 |
 | 💻 **Lenguaje** | C# |
 | 🧠 **Tipo de Proyecto** | Freelance / Prototipo técnico |
 | 🎮 **Perspectiva** | Primera persona |
-| 🔫 **Género base** | Shooter táctico (prototipo) |
-| 🧱 **Estado** | Sin IA ni audio, prototipo de base jugable |
+| 🔫 **Género base** | Shooter táctico |
+| 🧱 **Estado** | Sin IA ni audio, prototipo funcional |
 
 ---
 
 ## 🧠 Lógica Implementada
 
-El prototipo se enfoca en **aspectos técnicos y visuales**, más que en el gameplay completo.  
-Entre las implementaciones realizadas se destacan:
+El enfoque principal fue **técnico y visual**, buscando lograr una presentación sólida del concepto.  
+Entre los sistemas implementados se destacan:
 
-- 🎬 **Secuencia cinemática inicial** programada mediante eventos.  
-- 🔧 **Scripts de control e interacción básica.**  
-- 🎯 **Sistema de Inverse Kinematics (IK)** para posicionar correctamente el arma en la mano.  
+- 🎬 **Secuencia cinemática inicial**, programada mediante eventos personalizados.  
+- 🧩 **Scripts de control e interacción básica.**  
+- 🎯 **Sistema de Inverse Kinematics (IK)** aplicado al arma para una sujeción natural.  
 - 💥 **Activación de partículas y efectos visuales** durante el disparo.  
-- 📷 **Escenario de prueba y cámara controlada** para presentación del entorno.  
+- 📷 **Cinemática de cámara y composición de entorno** para presentación de la escena.
 
-> No se implementó comportamiento de IA, ya que el alcance del proyecto se centró en la presentación técnica del entorno y el sistema de cámara.
+> 🔸 Este prototipo no incluye IA ni audio, ya que el objetivo fue demostrar la **integración técnica y el flujo de cámara** en un entorno interactivo.
 
 ---
 
 ## 🎨 Enfoque Visual
 
-El prototipo se desarrolló con un enfoque **cinemático y técnico**, priorizando:
-- La **puesta en escena** y ambientación.  
-- Las **pruebas de cámara y animación IK**.  
-- La **demostración visual** del concepto general solicitado por el cliente.
+El desarrollo priorizó un **enfoque cinematográfico**, trabajando sobre:
+- La **puesta en escena** del entorno.  
+- La **iluminación y dirección de cámara**.  
+- El uso de **IK y partículas** como elementos expresivos.  
+
+El resultado es un **prototipo funcional y visualmente presentable**, centrado en la **base técnica del gameplay**.
+
+---
+
+## 🎬 Video de Demostración
+
+<div align="left">
+  <a href="https://youtube.com/shorts/G07vcWemYPU?feature=share">
+    <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="90" alt="Ver en YouTube"/>
+  </a>
+</div>
 
 ---
 
 ## 🖼️ Captura del Proyecto
 
-_(Imagen demostrativa del prototipo)_
-
 <div align="center">
-  <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700" alt="Captura del proyecto CODE:AA"/>
 </div>
-
-<p align="left">
-  <h2 align="left">🎬 Video de demostración</h2>
-  <a href="https://youtube.com/shorts/G07vcWemYPU?feature=share">
-    <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="120" alt="Ver en YouTube"/>
-  </a>
-</p>
 
 ---
 
 ## 📄 Estado y Créditos
 
-- 📅 **Año:** 2021  
-- 💼 **Origen:** Encargo freelance (LinkedIn)  
-- 🧾 **Estado:** Prototipo técnico (1 nivel demostrativo)  
-- 👨‍💻 **Desarrollador:** Milton Castro  
-- 🔓 **Autorización:** Cliente permitió publicación no comercial  
+| Detalle | Información |
+|----------|--------------|
+| 📅 **Año** | 2021 |
+| 💼 **Origen** | Encargo freelance (LinkedIn) |
+| 🧾 **Estado** | Prototipo técnico (1 nivel demostrativo) |
+| 👨‍💻 **Desarrollador** | Milton Castro |
+| 🔓 **Autorización** | Cliente permitió publicación no comercial |
 
 ---
 
-> 💬 *Freelance-2021-CODE-AA es un ejercicio de integración técnica, efectos visuales y estructura base para un juego de francotirador, demostrando experiencia en scripting, animación e implementación de eventos dentro de Unity.*
+> 💬 *“Freelance-2021-CODE-AA” representa una experiencia de integración técnica y presentación visual, enfocada en scripting, animación IK y estructura base de un shooter táctico dentro de Unity.*
 
 ---
