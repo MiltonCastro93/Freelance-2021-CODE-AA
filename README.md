@@ -66,7 +66,7 @@ El resultado es un **prototipo funcional y visualmente presentable**, centrado e
 ## 🖼️ Captura del Proyecto
 
 <div align="center">
-  <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700" alt="Captura del proyecto CODE:AA"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="350" alt="Captura del proyecto CODE:AA"/>
 </div>
 
 ---
