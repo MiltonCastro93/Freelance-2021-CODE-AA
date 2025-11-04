@@ -59,6 +59,9 @@ _(Imagen demostrativa del prototipo)_
   <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700"/>
 </div>
 
+ ## 🎬 Video de demostración
+[![Ver en YouTube](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/hqdefault.jpg)](https://youtube.com/shorts/G07vcWemYPU?feature=share)
+
 ---
 
 ## 📄 Estado y Créditos
