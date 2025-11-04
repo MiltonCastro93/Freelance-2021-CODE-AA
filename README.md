@@ -1,14 +1,15 @@
 # 🎯 Freelance-2021-CODE-AA
 
-**Freelance-2021-CODE-AA** es un prototipo de videojuego desarrollado de manera **independiente y por encargo**, tras ser contactado por un cliente a través de **LinkedIn** durante el año **2021**.  
-El proyecto fue concebido como un **shooter táctico en primera persona**, centrado en la experiencia de un **francotirador profesional** que debe **neutralizar enemigos y rescatar rehenes** a lo largo de diversas misiones.
+**Freelance-2021-CODE-AA** es un prototipo de videojuego desarrollado como **encargo freelance** en **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
+El juego propone la experiencia de un **francotirador táctico** que debe **neutralizar enemigos y rescatar rehenes** bajo presión, combinando precisión, estrategia y sigilo.
 
 ---
 
 ## 💼 Contexto del Proyecto
 
-Este trabajo fue un **encargo freelance** que me permitió experimentar con mecánicas de precisión, progresión económica y narrativa ligera dentro de un entorno 3D.  
-Si bien el proyecto no llegó a completarse por cuestiones externas (el cliente no finalizó el pago), **me autorizó públicamente a publicar el prototipo** como muestra de mi trabajo técnico y de diseño.
+El desarrollo surgió como parte de un **trabajo freelance profesional**, donde el objetivo era crear un **prototipo funcional** que demostrara las mecánicas principales del gameplay.  
+El cliente no completó el pago total del contrato, pero **me autorizó a publicar el prototipo** en mi portfolio como muestra técnica.  
+Debido a su carácter de prototipo, el proyecto cuenta con **un único nivel jugable**, pensado como **base para una expansión futura** con más misiones, progresión y contenidos.
 
 ---
 
@@ -21,37 +22,35 @@ Si bien el proyecto no llegó a completarse por cuestiones externas (el cliente 
 | 🧠 **Tipo de proyecto** | Freelance / Prototipo funcional |
 | 🎮 **Perspectiva** | Primera persona |
 | 🔫 **Género** | Shooter táctico / Francotirador |
-| 🧱 **Estado** | Incompleto, sin audio ni animaciones finales |
+| 🧱 **Estado** | Prototipo (sin audio ni animaciones finales) |
 
 ---
 
 ## 🎮 Mecánicas Principales
 
-- Sistema de disparo con control de precisión.  
-- Zoom dinámico del visor del rifle.  
-- Detección de enemigos y sistema de alerta.  
-- Objetivo: eliminar amenazas sin dañar a los rehenes.  
-- Progresión por niveles con recompensas monetarias.  
-- Compra de equipamiento y desbloqueo de nuevas misiones.  
+- Sistema de disparo con **control de precisión y zoom dinámico**.  
+- **Inteligencia artificial básica** para enemigos con detección y alerta.  
+- **Objetivos múltiples:** neutralizar enemigos y proteger rehenes.  
+- **Sistema de progresión planificado:** dinero y mejora de equipamiento.  
+- **Diseño de misiones escalable:** previsto para varios niveles y contratos de dificultad creciente.
 
-> El diseño buscaba combinar elementos de sigilo, puntería y estrategia en entornos abiertos, con un enfoque realista pero accesible para el jugador.
+> El prototipo incluye un **solo nivel funcional**, desarrollado para validar la jugabilidad base, el ritmo del disparo y la interacción con los objetivos.
 
 ---
 
-## 🎨 Estado Visual
+## 🎨 Enfoque Visual y Técnico
 
-El prototipo carece de sonido y utiliza **modelos y animaciones genéricas** a modo de placeholder.  
-Aún así, el foco principal del desarrollo fue la **lógica de gameplay y progresión**, por lo que se priorizó la funcionalidad sobre la estética.  
-Este proyecto sirvió como base para experimentar con **estructuras de misiones escalables** y sistemas de economía interna.
+El prototipo se centra en la **lógica de juego y estructura de niveles**, priorizando la **programación del gameplay** sobre la estética final.  
+No posee audio ni animaciones definitivas, ya que su propósito era servir como **versión demostrativa previa al desarrollo completo**.
 
 ---
 
 ## 🖼️ Captura del Proyecto
 
-_(Imagen de libre licencia, utilizada solo con fines demostrativos)_
+_(Imagen demostrativa del prototipo)_
 
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" width="700"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700"/>
 </div>
 
 ---
@@ -59,13 +58,13 @@ _(Imagen de libre licencia, utilizada solo con fines demostrativos)_
 ## 📄 Estado y Créditos
 
 - 📅 **Año:** 2021  
-- 💼 **Origen:** Encargo freelance vía LinkedIn  
-- 🧾 **Estado:** Prototipo (no comercial)  
+- 💼 **Origen:** Encargo freelance (LinkedIn)  
+- 🧾 **Estado:** Prototipo jugable (1 nivel)  
 - 👨‍💻 **Desarrollador:** Milton Castro  
-- 🔓 **Autorización:** Cliente permitió publicación del código y materiales no comerciales  
+- 🔓 **Autorización:** Cliente permitió publicación del prototipo no comercial  
 
 ---
 
-> 💬 *Freelance-2021-CODE-AA representa un ejercicio sólido de programación, estructuración de misiones y diseño de gameplay táctico bajo un entorno profesional de desarrollo freelance.*
+> 💬 *Freelance-2021-CODE-AA representa una experiencia sólida de desarrollo técnico y diseño de gameplay bajo encargo profesional, demostrando la estructura base para un shooter táctico de progresión escalable.*
 
 ---
