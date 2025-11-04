@@ -1,6 +1,6 @@
-# 🎯 Freelance-2021-CODE-AA
+# 🎯 Freelance 2021 CODE:AA
 
-**Freelance-2021-CODE-AA** es un **prototipo de videojuego** desarrollado como **trabajo freelance** durante **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
+**Freelance 2021 CODE:AA** es un **prototipo de videojuego** desarrollado como **trabajo freelance** durante **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
 El proyecto consistía en crear una **base jugable** para un futuro título de francotiradores, enfocándose en la **puesta en escena, control del arma y efectos visuales**.
 
 ---
