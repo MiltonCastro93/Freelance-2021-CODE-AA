@@ -59,9 +59,8 @@ _(Imagen demostrativa del prototipo)_
   <img src="https://github.com/MiltonCastro93/Freelance-2021-CODE-AA/blob/main/ImagenShooter.png" width="700"/>
 </div>
 
-<h2 align="left">🎬 Video de demostración</h2>
-
-<p align="center">
+<p align="left">
+  <h2 align="left">🎬 Video de demostración</h2>
   <a href="https://youtube.com/shorts/G07vcWemYPU?feature=share">
     <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" width="120" alt="Ver en YouTube"/>
   </a>
