@@ -1,47 +1,53 @@
 # 🎯 Freelance-2021-CODE-AA
 
-**Freelance-2021-CODE-AA** es un prototipo de videojuego desarrollado como **encargo freelance** en **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
-El juego propone la experiencia de un **francotirador táctico** que debe **neutralizar enemigos y rescatar rehenes** bajo presión, combinando precisión, estrategia y sigilo.
+**Freelance-2021-CODE-AA** es un **prototipo de videojuego** desarrollado como **trabajo freelance** durante **2021**, tras ser contactado por un cliente a través de **LinkedIn**.  
+El proyecto consistía en crear una **base jugable** para un futuro título de francotiradores, enfocándose en la **puesta en escena, control del arma y efectos visuales**.
 
 ---
 
 ## 💼 Contexto del Proyecto
 
-El desarrollo surgió como parte de un **trabajo freelance profesional**, donde el objetivo era crear un **prototipo funcional** que demostrara las mecánicas principales del gameplay.  
-El cliente no completó el pago total del contrato, pero **me autorizó a publicar el prototipo** en mi portfolio como muestra técnica.  
-Debido a su carácter de prototipo, el proyecto cuenta con **un único nivel jugable**, pensado como **base para una expansión futura** con más misiones, progresión y contenidos.
+El objetivo era construir un **prototipo técnico** que demostrara las bases de gameplay y presentación.  
+El contrato no fue completado en su totalidad, pero el cliente **autorizó la publicación del prototipo** en mi portfolio personal.  
+
+El proyecto fue diseñado para tener varios niveles, pero esta versión contiene **un único nivel de prueba**, centrado en la **cinemática, el control del personaje y la integración de animaciones e IK**.
 
 ---
 
 ## ⚙️ Detalles Técnicos
 
-| Característica | Detalle |
-|----------------|----------|
+| Característica | Descripción |
+|----------------|-------------|
 | 🧩 **Motor** | Unity 2021 |
 | 💻 **Lenguaje** | C# |
-| 🧠 **Tipo de proyecto** | Freelance / Prototipo funcional |
+| 🧠 **Tipo de Proyecto** | Freelance / Prototipo técnico |
 | 🎮 **Perspectiva** | Primera persona |
-| 🔫 **Género** | Shooter táctico / Francotirador |
-| 🧱 **Estado** | Prototipo (sin audio ni animaciones finales) |
+| 🔫 **Género base** | Shooter táctico (prototipo) |
+| 🧱 **Estado** | Sin IA ni audio, prototipo de base jugable |
 
 ---
 
-## 🎮 Mecánicas Principales
+## 🧠 Lógica Implementada
 
-- Sistema de disparo con **control de precisión y zoom dinámico**.  
-- **Inteligencia artificial básica** para enemigos con detección y alerta.  
-- **Objetivos múltiples:** neutralizar enemigos y proteger rehenes.  
-- **Sistema de progresión planificado:** dinero y mejora de equipamiento.  
-- **Diseño de misiones escalable:** previsto para varios niveles y contratos de dificultad creciente.
+El prototipo se enfoca en **aspectos técnicos y visuales**, más que en el gameplay completo.  
+Entre las implementaciones realizadas se destacan:
 
-> El prototipo incluye un **solo nivel funcional**, desarrollado para validar la jugabilidad base, el ritmo del disparo y la interacción con los objetivos.
+- 🎬 **Secuencia cinemática inicial** programada mediante eventos.  
+- 🔧 **Scripts de control e interacción básica.**  
+- 🎯 **Sistema de Inverse Kinematics (IK)** para posicionar correctamente el arma en la mano.  
+- 💥 **Activación de partículas y efectos visuales** durante el disparo.  
+- 📷 **Escenario de prueba y cámara controlada** para presentación del entorno.  
+
+> No se implementó comportamiento de IA, ya que el alcance del proyecto se centró en la presentación técnica del entorno y el sistema de cámara.
 
 ---
 
-## 🎨 Enfoque Visual y Técnico
+## 🎨 Enfoque Visual
 
-El prototipo se centra en la **lógica de juego y estructura de niveles**, priorizando la **programación del gameplay** sobre la estética final.  
-No posee audio ni animaciones definitivas, ya que su propósito era servir como **versión demostrativa previa al desarrollo completo**.
+El prototipo se desarrolló con un enfoque **cinemático y técnico**, priorizando:
+- La **puesta en escena** y ambientación.  
+- Las **pruebas de cámara y animación IK**.  
+- La **demostración visual** del concepto general solicitado por el cliente.
 
 ---
 
@@ -59,12 +65,12 @@ _(Imagen demostrativa del prototipo)_
 
 - 📅 **Año:** 2021  
 - 💼 **Origen:** Encargo freelance (LinkedIn)  
-- 🧾 **Estado:** Prototipo jugable (1 nivel)  
+- 🧾 **Estado:** Prototipo técnico (1 nivel demostrativo)  
 - 👨‍💻 **Desarrollador:** Milton Castro  
-- 🔓 **Autorización:** Cliente permitió publicación del prototipo no comercial  
+- 🔓 **Autorización:** Cliente permitió publicación no comercial  
 
 ---
 
-> 💬 *Freelance-2021-CODE-AA representa una experiencia sólida de desarrollo técnico y diseño de gameplay bajo encargo profesional, demostrando la estructura base para un shooter táctico de progresión escalable.*
+> 💬 *Freelance-2021-CODE-AA es un ejercicio de integración técnica, efectos visuales y estructura base para un juego de francotirador, demostrando experiencia en scripting, animación e implementación de eventos dentro de Unity.*
 
 ---
