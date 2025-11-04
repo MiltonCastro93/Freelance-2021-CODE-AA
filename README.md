@@ -60,7 +60,7 @@ _(Imagen demostrativa del prototipo)_
 </div>
 
  ## 🎬 Video de demostración
-[![Ver en YouTube](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/hqdefault.jpg)](https://youtube.com/shorts/G07vcWemYPU?feature=share)
+[![Ver en YouTube](https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png)](https://youtube.com/shorts/G07vcWemYPU?feature=share)
 
 ---
 
